@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujit
 - 👀 I’m interested in coding , Photography and Cinematography
-- 🌱 I’m currently learning Javascript for backend of webdevelopment
+- 🌱 I’m currently learning Javascript for webdevelopment
 - 📫 How to reach me facebook instagram (Sujit Naik)
 
 <!---
